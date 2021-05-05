@@ -1,4 +1,4 @@
-# Capestone_project2
+# Bigginers Game
 A simple Game
 
 This a simple game created from an example file coded in **pygame** The aim of the game is to have a player move up and down forward and backwards with the arrow keys and must avoid colliding with objects
